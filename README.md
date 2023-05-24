@@ -39,7 +39,7 @@ Create Product API: http://localhost:3000/api/product/create
 
 Semple data:
 
-x-access-token = <After sign-in through the above API you will get token>
+x-access-token = (After sign-in through the above API you will get token)
 
 {
 
@@ -57,4 +57,4 @@ x-access-token = <After sign-in through the above API you will get token>
 
 http://localhost:3000/api/product/show/<product\_id>
 
-x-access-token = <After sign-in through the above API you will get token>
+x-access-token = (After sign-in through the above API you will get token)
